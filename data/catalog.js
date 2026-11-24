@@ -3,7 +3,8 @@
 window.CATALOG={
 MATH:[
   {"code": "nm", "name": "Numerical Methods & Data Analysis", "items": 180},
-  {"code": "eda", "name": "Statistics and Exploratory Data Analysis (EDA)", "items": 39}
+  {"code": "eda", "name": "Statistics and Exploratory Data Analysis (EDA)", "items": 39},
+  {"code": "obj", "name": "MATHEMATICS OBJECTIVE", "items": 148}
 ],
 ESAS:[
   {"code": "econ", "name": "Engineering Economics - Lindeburg", "items": 22},
